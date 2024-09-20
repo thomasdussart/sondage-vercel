@@ -20,4 +20,5 @@
       "dest": "/front/dist/$1"
     }
   ]
+  
 }
